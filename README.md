@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**SaeedShakuri/saeedshakuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Hi there👋         
+<br>
+You can reach me via
+<br>
+  <a href="https://www.linkedin.com/in/saeed-shakuri-64a7b81aa/">
+  <img src="https://user-images.githubusercontent.com/103886656/196713478-2f95c0a3-5259-4fc8-9a0a-318bc6b51657.png" width="20">
+  </a>
+   <a href="https://www.instagram.com/saeed_shakuri_m/">
+  <img src="https://user-images.githubusercontent.com/103886656/196713633-2a52825d-b50d-4fbf-a453-96024020be71.png" width="20">
+  </a>
+   <a href="https://twitter.com/SaeedShakuri">
+  <img src="https://user-images.githubusercontent.com/103886656/196714094-c15930f5-529e-4b87-bae9-799f79273625.png" width="20">
+  </a>
+  
+
+
+
+
+
