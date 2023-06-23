@@ -6,6 +6,10 @@ Hi there👋
 <br>
 You can reach me via
 <br>
+  </a>
+   <a href="mailto:saeed.shakuri.m@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/3178/3178158.png" width="20">
+  </a>
   <a href="https://www.linkedin.com/in/saeed-shakuri-64a7b81aa/">
   <img src="https://user-images.githubusercontent.com/103886656/196713478-2f95c0a3-5259-4fc8-9a0a-318bc6b51657.png" width="20">
   </a>
