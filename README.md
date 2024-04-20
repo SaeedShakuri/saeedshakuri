@@ -2,7 +2,7 @@
 
 You can reach me via:
 
-[![Website](https://www.freeiconspng.com/download/39526)](https://saeedshakuri.github.io/SaeedShakuri.gitup.io/)
-[![Email](https://example.com/email.png)](mailto:youremail@example.com)
-[![LinkedIn](https://example.com/linkedin.png)](https://www.linkedin.com/in/saeed-shakuri/)
-[![ResearchGate](https://example.com/researchgate.png)](https://www.researchgate.net/profile/Saeed-Shakuri-2)
+[<img src="https://www.freeiconspng.com/download/39526" width="36">](https://saeedshakuri.github.io/SaeedShakuri.gitup.io/)
+[<img src="https://example.com/email.png" width="36">](mailto:youremail@example.com)
+[<img src="https://example.com/linkedin.png" width="36">](https://www.linkedin.com/in/saeed-shakuri/)
+[<img src="https://example.com/researchgate.png" width="36">](https://www.researchgate.net/profile/Saeed-Shakuri-2)
